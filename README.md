@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 🤝 I’m looking for help with **Ethical hacking**
+- 🤝 I’m looking for help with **OSINT**
 
 - 👨‍💻 All of my projects are available at [https://akshay-shrivastava-portfolio.netlify.app/](https://akshay-shrivastava-portfolio.netlify.app/)
 
