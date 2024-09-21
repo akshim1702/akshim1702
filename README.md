@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshim1702" alt="akshim1702" /></a> </p>
 
-- 🔭 I’m currently Working with **MERN**
+- 🔭 I’m currently Working with **MEAN**
 
 - 🌱 I’m currently learning **Cyber Security**
 
