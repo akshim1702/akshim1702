@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshim1702&show_icons=true&locale=en" alt="akshim1702" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshim1702&" alt="akshim1702" /></p>
+
+[![An image of @akshim1702's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshim1702)](https://holopin.io/@akshim1702)
